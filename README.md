@@ -2,9 +2,9 @@
 
 A collection of chess games with different AI implementations and features. This repository contains three different chess game implementations:
 
-1. Chess with LLM (Gemini)
-2. Chess with LLMs
-3. Chess Game Basic
+1. Chess Game Basic
+2. Chess with LLM (Gemini)
+3. Chess with LLM's
 
 ## Features
 
